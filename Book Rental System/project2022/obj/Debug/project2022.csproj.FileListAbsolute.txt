@@ -1,0 +1,42 @@
+c:\users\pravin\documents\visual studio 2013\Projects\project2022\project2022\bin\Debug\project2022.exe.config
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\obj\Debug\project2022.csprojResolveAssemblyReference.cache
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\obj\Debug\project2022.Properties.Resources.resources
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\obj\Debug\project2022.csproj.GenerateResource.Cache
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\bin\Debug\project2022.exe
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\bin\Debug\project2022.pdb
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\obj\Debug\project2022.exe
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\obj\Debug\project2022.pdb
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\obj\Debug\project2022.login.resources
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\obj\Debug\project2022.Book.resources
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\obj\Debug\project2022.BookRental.resources
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\obj\Debug\project2022.Menu.resources
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\obj\Debug\project2022.Membershipform.resources
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\obj\Debug\project2022.BookReturn.resources
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\obj\Debug\project2022.FrmrptMembership.resources
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\obj\Debug\RdlCompile.cache
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\obj\Debug\RdlCompile.compiled
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\obj\Debug\project2022.frmrptbook.resources
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\obj\Debug\project2022.frmrptrental.resources
+C:\Users\pravin\documents\visual studio 2013\Projects\project2022\project2022\obj\Debug\project2022.frmrptreturn.resources
+D:\BookRentalsystemPravinSamarth\project2022\bin\Debug\project2022.exe.config
+D:\BookRentalsystemPravinSamarth\project2022\obj\Debug\project2022.exe
+D:\BookRentalsystemPravinSamarth\project2022\obj\Debug\project2022.pdb
+D:\BookRentalsystemPravinSamarth\project2022\bin\Debug\project2022.exe
+D:\BookRentalsystemPravinSamarth\project2022\bin\Debug\project2022.pdb
+D:\BookRentalsystemPravinSamarth\project2022\obj\Debug\project2022.Book.resources
+D:\BookRentalsystemPravinSamarth\project2022\obj\Debug\project2022.BookRental.resources
+D:\BookRentalsystemPravinSamarth\project2022\obj\Debug\project2022.BookReturn.resources
+D:\BookRentalsystemPravinSamarth\project2022\obj\Debug\project2022.frmrptbook.resources
+D:\BookRentalsystemPravinSamarth\project2022\obj\Debug\project2022.FrmrptMembership.resources
+D:\BookRentalsystemPravinSamarth\project2022\obj\Debug\project2022.frmrptrental.resources
+D:\BookRentalsystemPravinSamarth\project2022\obj\Debug\project2022.frmrptreturn.resources
+D:\BookRentalsystemPravinSamarth\project2022\obj\Debug\project2022.Membershipform.resources
+D:\BookRentalsystemPravinSamarth\project2022\obj\Debug\project2022.login.resources
+D:\BookRentalsystemPravinSamarth\project2022\obj\Debug\project2022.Menu.resources
+D:\BookRentalsystemPravinSamarth\project2022\obj\Debug\project2022.Properties.Resources.resources
+D:\BookRentalsystemPravinSamarth\project2022\obj\Debug\project2022.csproj.GenerateResource.Cache
+D:\BookRentalsystemPravinSamarth\project2022\obj\Debug\project2022.frmrptreceipt.resources
+D:\BookRentalsystemPravinSamarth\project2022\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BookRentalsystemPravinSamarth\project2022\obj\Debug\project2022.csproj.AssemblyReference.cache
+D:\BookRentalsystemPravinSamarth\project2022\obj\Debug\project2022.csproj.CoreCompileInputs.cache
+D:\BookRentalsystemPravinSamarth\project2022\obj\Debug\project2.825D4C73.Up2Date
